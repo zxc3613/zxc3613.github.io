@@ -55,7 +55,7 @@ address:
   - line: C#, Unity, Visual Studio
 
 # 3번째 내용
-credits: '유니티로 개임을 개발하는 개발자'
+credits: '유니티로 게임을 개발하는 개발자'
 
 # Build settings
 markdown: kramdown
