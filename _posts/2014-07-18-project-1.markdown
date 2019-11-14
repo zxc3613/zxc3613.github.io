@@ -7,6 +7,5 @@ alt: image-alt
 project-date: November 2019
 client: Start Bootstrap
 category: GAME
-description: Unity  UI 학습을 위해 만든 수퍼연락처
-아아아아<a href="https://github.com/zxc3613/SuperContact">Github</a>.아아아아
+description: Unity  UI 학습을 위해 만든 수퍼연락처 <a href="https://github.com/zxc3613/SuperContact">Github</a>. 아아아아
 ---
