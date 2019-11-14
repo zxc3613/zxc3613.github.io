@@ -5,7 +5,7 @@ date: 2019-11-14
 img: p01.png
 alt: image-alt
 project-date: November 2019
-client: Start Bootstrap
+client: 
 category: Contact
 description: Unity  UI 학습을 위해 만든 수퍼연락처.
 -<a href="https://github.com/zxc3613/SuperContact/">Github</a>-
