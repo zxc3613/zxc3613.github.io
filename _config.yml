@@ -1,11 +1,11 @@
 # 사이트 설정
-title: OKMYPHOTO
+title: 유니티 게임 개발자
 email: zxc3613@naver.com
 url: https://zxc3613.github.io
-description: "누구나 쉽게 게임을 개발할 수 있는 그날까지......"
-keywords: "your keywords, separated by commas"
-skills: "게임프로그래머"
-meta_author: LastName FirstName
+description: "유니티 기반의 모바일 게임 개발자"
+keywords: "Unity, C#, Game, Developer, Designer"
+skills: "C#, Unity, Server 개발자"
+meta_author: 오일강
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # 바닥글 설정
 footer:
-  copyright: zxc3613
+  copyright: IlKang, Oh
   location: 기술
   social: 웹사이트
   credits: 
@@ -52,10 +52,10 @@ social:
 
 # 1번째 내용 (기술)
 address:
-  - line: 간단한 UI 작업
+  - line: C#, Unity, Visual Studio
 
 # 3번째 내용
-credits: ' '
+credits: '유니티로 개임을 개발하는 개발자'
 
 # Build settings
 markdown: kramdown
