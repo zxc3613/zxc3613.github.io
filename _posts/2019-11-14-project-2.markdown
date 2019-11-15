@@ -5,7 +5,7 @@ date: 2019-11-14
 img: p02.png
 alt: image-alt
 project-date: 11, 2019
-github: https://github.com/zxc3613/SuperContact
+github: https://github.com/zxc3613/OKSwitch
 skills: C#, Unity
 category: UI
 description: 어느곳에서나 사용 가능한 스위치 UI.
