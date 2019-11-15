@@ -8,6 +8,6 @@ project-date: 11, 2019
 github: https://github.com/zxc3613/SuperContact
 skills: C#, Unity
 category: Contact UI
-description: Unity  UI 학습을 위해 만든 수퍼연락처.```````
+description: Unity  UI 학습을 위해 만든 수퍼연락처.
 
 ---
