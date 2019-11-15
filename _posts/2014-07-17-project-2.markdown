@@ -8,6 +8,6 @@ project-date: 11, 2019
 github: https://github.com/zxc3613/SuperContact
 skills: C#, Unity
 category: UI
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: 어느곳에서나 사용 가능한 스위치 UI.
 
 ---
