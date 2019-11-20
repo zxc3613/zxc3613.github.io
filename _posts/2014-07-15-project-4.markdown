@@ -1,12 +1,13 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2019-11-20
+img: p04.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: 11, 2019
+github: https://github.com/zxc3613/FishGame.git
+skills: C#, Unity
+category: Game
+description: 터치스크린을 터치하면 물고기가 위로 뛰어 오릅니다. 뛰어 오르는 힘으로 앞에 장애물이 나오는것을 피하는 게임.
 
 ---
