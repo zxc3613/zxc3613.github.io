@@ -2,10 +2,10 @@
 layout: default
 modal-id: 4
 date: 2019-11-20
-img: p04.png
+img: game.png
 alt: image-alt
 project-date: 11, 2019
-github: https://github.com/zxc3613/FishGame.git
+github: https://github.com/zxc3613/FishGame
 skills: C#, Unity
 category: Game
 description: 터치스크린을 터치하면 물고기가 위로 뛰어 오릅니다. 뛰어 오르는 힘으로 앞에 장애물이 나오는것을 피하는 게임.
