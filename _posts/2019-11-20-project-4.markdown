@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2019-11-20
-img: game.png
+img: p04.png
 alt: image-alt
 project-date: 11, 2019
 github: https://github.com/zxc3613/FishGame
