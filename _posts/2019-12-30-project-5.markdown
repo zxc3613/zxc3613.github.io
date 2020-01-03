@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2019-12-30
+img: p05.png
+alt: image-alt
+project-date: 12, 2019
+github: https://github.com/zxc3613/TicTacToe-Client
+skills: C#, Unity, Server
+category: Game
+description: 서버 연동으로 2명이 할수있는 틱택토 게임과 여러명이 모여 채팅할수 있는 간단한 채팅 서버입니다.
+
+---
